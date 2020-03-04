@@ -1,4 +1,4 @@
-package com.gildedrose;
+package cn.xpbootcamp.gilded_rose;
 
 public class Item {
 
