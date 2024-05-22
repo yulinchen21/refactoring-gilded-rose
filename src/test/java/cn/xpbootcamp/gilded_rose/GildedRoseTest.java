@@ -15,7 +15,7 @@ public class GildedRoseTest {
         app.update_quality();
         assertEquals("foo", app.items[0].name);
         assertThat(app.items[0].quality).isEqualTo(4);
-        assertThat(app.items[0].sell_in).isEqualTo(0);
+        assertThat(app.items[0].sellIn).isEqualTo(0);
     }
 
 }
